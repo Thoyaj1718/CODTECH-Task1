@@ -44,4 +44,7 @@ Train the model on the training data and evaluate it on the test data.
 Print out the processed data and model results.
 This workflow provides a complete pipeline for classification with preprocessing, model fitting, and evaluation.
 
-THE OUTPUT IS:
+THE OUTPUT IS:![task1](https://github.com/user-attachments/assets/787ce6eb-627d-41d1-8125-1c2e19eafbf4)
+
+
+
