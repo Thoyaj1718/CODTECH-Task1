@@ -1,7 +1,7 @@
-Name :K THOYAJ KUMAR 
-Company :CODTECH IT SOLUTIONS 
-ID :CT08DS9802 
-DOMAIN :ARTIFICIAL INTELLIGENCE 
+Name :K THOYAJ KUMAR                  
+Company :CODTECH IT SOLUTIONS                  
+ID :CT08DS9802                    
+DOMAIN :ARTIFICIAL INTELLIGENCE                 
 
 Overview of the Project
 
